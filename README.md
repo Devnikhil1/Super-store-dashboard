@@ -62,4 +62,5 @@ By Sub-Category:
 
 # Screenshots / Demos:
    ! [Dashboard Preview] - (https://github.com/Devnikhil1/Super-store-dashboard/blob/main/Snapshot%20of%20dashboard.png)
+   
    ! [Dashboard Preview] - (https://github.com/Devnikhil1/Super-store-dashboard/blob/main/Snapshot%20of%20dashboard-.png)
