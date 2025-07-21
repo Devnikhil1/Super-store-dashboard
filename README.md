@@ -1,7 +1,7 @@
 # Super-store-dashboard
 
 # Project Title:
-  Super Store Sales Analytics: Super Store Sales Dashboard & Forecasting Tool
+  Super Store Sales Analytics: Super Store Sales Dashboard & Forecasting Tool:
       An interactive analytics dashboard designed to monitor and forecast superstore performance.
 
 # Short Description / Purpose:
@@ -12,7 +12,7 @@
   •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
   •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
   •	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
-  •	📝 Data Modeling – Relationships established among tables (Sales records with order date, segment, category, region, and state) to enable cross-filtering and aggregation.<br>
+  •	📝 Data Modeling – Relationships established among tables (Sales records with order date, segment, category, region and state) to enable cross-filtering and aggregation.<br>
   •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 # Features & Highlights:
@@ -61,4 +61,4 @@ By Sub-Category:
 
 # Screenshots / Demos:
     [Dashboard Preview] - (https://github.com/Devnikhil1/Super-store-dashboard/blob/main/Snapshot%20of%20dashboard.png)
-    [Dashboard Preview] - (
+    [Dashboard Preview] - (https://github.com/Devnikhil1/Super-store-dashboard/blob/main/Snapshot%20of%20dashboard-.png)
