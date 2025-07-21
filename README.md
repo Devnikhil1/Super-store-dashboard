@@ -60,4 +60,5 @@ By Sub-Category:
     Expected gradual decline post-peak with final projection at 3K/day.
 
 # Screenshots / Demos:
+    [Dashboard Preview] - (https://github.com/Devnikhil1/Super-store-dashboard/blob/main/Snapshot%20of%20dashboard.png)
     [Dashboard Preview] - (
